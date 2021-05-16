@@ -1,0 +1,32 @@
+[
+    {
+        "apdruka": "teksts",
+        "cena": 5,
+        "teksts": "tev",
+        "krasa": "zils"
+    },
+    {
+        "apdruka": "teksts",
+        "cena": 5,
+        "teksts": "tr",
+        "krasa": "te"
+    },
+    {
+        "apdruka": "zīme",
+        "cena": 7,
+        "krasa1": "zila",
+        "links": "nē"
+    },
+    {
+        "apdruka": "teksts",
+        "cena": 5,
+        "teksts": "eeeeee",
+        "krasa": "zzzz"
+    },
+    {
+        "apdruka": "zīme",
+        "cena": 7,
+        "krasa1": "df",
+        "links": "nē"
+    }
+]
